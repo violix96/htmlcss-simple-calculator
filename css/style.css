@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calcolatrice{
+    background-color: grey;
+    width: 200px;
+    height: 400px;
+    
+}
+
+.Bottoni{
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    
+    
+}
