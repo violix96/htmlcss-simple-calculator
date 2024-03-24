@@ -78,13 +78,7 @@ flex-wrap: wrap;
 
 
 .button{
-    margin: 2px;
-    border: 0px solid;
-    border-radius: 3px;
-    
-    
-    
-    
+    margin: 2px; 
 }
 
 .numeri{
@@ -94,8 +88,8 @@ flex-wrap: wrap;
   
 }
 
-.item{
-    flex-grow: 2;
+.zero{
+    width: 170px;
 }
 
 .operazioni{
